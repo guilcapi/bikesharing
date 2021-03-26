@@ -41,3 +41,7 @@ By creating a Tableau Dashboard, the analysis was as shown:
 The results showed interesting results such as for trips by weekday per hour, the peak hours were at 8am and from 5-6pm. For trips by Gender by weekday per hour, more males were shown taking trips for the morning and evening, and for user trips by gender by weekday, there were more male subscribers.
 
 Two additional visualizations I would perform on the dataset include are mapping out Stations with usage and adding a view that shows where an additional station may be beneficial to be added based on peak usage at other locations and geographic location.
+
+### Tableau Public Dashboard (Viewable by all)
+
+[Dashboard Link](https://public.tableau.com/profile/christopher.guilcapi3266#!/vizhome/Dashboard_16167348826360/CitibikeAnalysisPresentation?publish=yes)
